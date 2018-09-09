@@ -1,7 +1,7 @@
 # git-training
 
-Première modification
+Première modification modifiée
 
-Deuxième modification
+Deuxième modification modifiée
 
-Troisième modification
+Troisième modification modifée
